@@ -1,6 +1,6 @@
 <!-- Profile README for Minhaj414 -->
 
-<h1 align="center">Minhaj</h1>
+<h1 align="center">Hi, I’m Minhaj 👋</h1>
 <p align="center">
   <b>Software Engineering Student • Web Developer • Automation & Practical Tools</b><br/>
   Building clean, reliable web experiences and small systems that solve real problems.
@@ -60,7 +60,7 @@ I enjoy building projects that are simple to use, maintainable, and grounded in 
   <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css&logoColor=1572B6" />
 </p>
 
 ### Frameworks & Tools
@@ -85,7 +85,7 @@ I enjoy building projects that are simple to use, maintainable, and grounded in 
 
 ## Featured Projects
 
-> Tip: Pin your best repositories on your GitHub profile — they’ll automatically appear here for visitors.
+<!-- > Tip: Pin your best repositories on your GitHub profile — they’ll automatically appear here for visitors. -->
 
 - **Pinned repos below** (projects I’m actively improving)
 - **Experiment log:** prototypes, quick iterations, and learning notes
@@ -112,8 +112,8 @@ I enjoy building projects that are simple to use, maintainable, and grounded in 
 - Twitter/X: https://twitter.com/Minhaj414
 - Email: minhaj414@gmail.com
 
-**Resume:** Add your resume link here (Google Drive / Notion / PDF in a repo)
-- Resume: <your-resume-link>
+**Resume:** <!-- Add your resume link here (Google Drive / Notion / PDF in a repo)
+- Resume: <your-resume-link>  -->
 
 ---
 
