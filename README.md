@@ -1,11 +1,13 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I’m Minhaj 👋</h1>
+<!-- Profile README for Minhaj414 -->
+
+<h1 align="center">Minhaj</h1>
 <p align="center">
-  <b>Web Developer • Automation Curious • Building practical tools</b>
+  <b>Software Engineering Student • Web Developer • Automation & Practical Tools</b><br/>
+  Building clean, reliable web experiences and small systems that solve real problems.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=1D4ED8&center=true&vCenter=true&width=520&lines=Student+of+University+of+Moratuwa;Software+Engineer;Web+Developer;Learning+Open+Source;Robotics+%26+Computer+Vision+Curious;Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=1D4ED8&center=true&vCenter=true&width=760&lines=University+of+Moratuwa+Student;Web+Development+%7C+APIs+%7C+Automation;Learning+by+building+and+shipping;Open+to+internships+and+collaboration" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,30 +22,48 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/Minhaj414">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/Minhaj414">
+    <img src="https://img.shields.io/badge/Twitter%2FX-111?style=flat&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://minhaj414.github.io/portfolio2/">
+    <img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:minhaj414@gmail.com">
+    <img src="https://img.shields.io/badge/Email-minhaj414%40gmail.com-111?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 ---
 
-## 👨‍💻 About Me
-I’m a university student who enjoys building web apps and experimenting with automation. I like projects where software meets the real world—dashboards, scripts, APIs, and a bit of computer vision.
+## About Me
 
-- 🔭 **Currently exploring:** Raspberry Pi + OpenCV mini projects (tracking / detection experiments)
-- 🧩 **What I build:** small web tools, full‑stack demos, and scripts that save time
-- 🌱 **Improving:** JavaScript/TypeScript, backend basics, and clean UI
-- ♟️ **Fun:** puzzles and chess
+I’m a Software Engineering student at the **University of Moratuwa** with a focus on **web development** and **automation**.  
+I enjoy building projects that are simple to use, maintainable, and grounded in real-world needs (dashboards, scripts, APIs, and lightweight full‑stack apps).
+
+- **Currently exploring:** Raspberry Pi + OpenCV mini projects (tracking / detection experiments)
+- **What I build:** full‑stack demos, utilities, automation scripts, and learning projects
+- **Improving:** JavaScript/TypeScript, backend fundamentals, and UI/UX clarity
+- **Fun:** chess, logic puzzles, and optimization problems
 
 ---
 
-## 🛠️ Tech I Use
+## Tech Stack
 
-**Languages**
+### Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
 
-**Frameworks & Tools**
+### Frameworks & Tools
 <p>
   <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js" />
@@ -55,45 +75,48 @@ I’m a university student who enjoys building web apps and experimenting with a
 
 ---
 
-## 📌 Highlights
-- ✅ **Pinned repos below** (projects I’m actively improving)
-- 🧪 **Experiment log:** small prototypes, quick iterations, and learning notes
+## Current Focus
+
+- Strengthening backend fundamentals (APIs, authentication, databases)
+- Building small, shippable projects with clean UI
+- Exploring automation + computer vision experiments
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
+
+> Tip: Pin your best repositories on your GitHub profile — they’ll automatically appear here for visitors.
+
+- **Pinned repos below** (projects I’m actively improving)
+- **Experiment log:** prototypes, quick iterations, and learning notes
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Minhaj414&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhaj414&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Minhaj414&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhaj414&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minhaj414&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## Contact & Links
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minhaj414&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+- Portfolio: https://minhaj414.github.io/portfolio2/
+- LinkedIn: https://www.linkedin.com/in/Minhaj414
+- Twitter/X: https://twitter.com/Minhaj414
+- Email: minhaj414@gmail.com
 
-
+**Resume:** Add your resume link here (Google Drive / Notion / PDF in a repo)
+- Resume: <your-resume-link>
 
 ---
 
-## 🌐 Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/Minhaj414">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/Minhaj414">
-    <img src="https://img.shields.io/badge/Twitter-111?style=for-the-badge&logo=twitter" />
-  </a>
-  <a href="https://minhaj414.github.io/portfolio2/">
-    <img src="https://img.shields.io/badge/Website-111?style=for-the-badge&logo=google-chrome" />
-  </a>
-</p>
-
 <p align="center">
-  <i>Thanks for visiting — feel free to check out my pinned projects.</i>
+  <i>Thanks for visiting — feel free to explore my pinned projects and reach out if you’d like to collaborate.</i>
 </p>
