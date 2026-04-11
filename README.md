@@ -112,8 +112,8 @@ I enjoy building projects that are simple to use, maintainable, and grounded in 
 - Twitter/X: https://twitter.com/Minhaj414
 - Email: minhaj414@gmail.com
 
-**Resume:** <!-- Add your resume link here (Google Drive / Notion / PDF in a repo)
-- Resume: <your-resume-link>  -->
+<!-- **Resume:**  Add your resume link here (Google Drive / Notion / PDF in a repo)  -->
+- Resume: <your-resume-link> 
 
 ---
 
