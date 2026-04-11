@@ -1,75 +1,98 @@
-- 👋 Hi, I’m Minhaj
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Minhaj 👋</h1>
+<p align="center">
+  <b>Web Developer • Open Source Learner • Building cool things on the internet</b>
+</p>
 
-# Hi there, I'm Minhaj! 👋
+<p align="center">
+  <a href="https://github.com/Minhaj414">
+    <img src="https://komarev.com/ghpvc/?username=Minhaj414&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/Minhaj414?tab=followers">
+    <img src="https://img.shields.io/github/followers/Minhaj414?label=Followers&style=flat&color=blueviolet" alt="followers" />
+  </a>
+  <a href="https://github.com/Minhaj414?tab=stars">
+    <img src="https://img.shields.io/github/stars/Minhaj414?label=Stars&style=flat&color=blueviolet" alt="stars" />
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Minhaj414&color=blueviolet)
-
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development and open source contributions.
+---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning new technologies and improving my coding skills.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about anything related to JavaScript, Python, or web development.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+- 🌱 Currently learning and improving my development skills  
+- 👯 Open to collaborating on **Web Development** & **Open Source** projects  
+- 💬 Ask me about **JavaScript, Python, React, Node.js**  
+- ⚡ Fun fact: I enjoy puzzles and chess  
 
-## 🛠 My Skills
+> If you want, tell me your **real email / LinkedIn / portfolio**, I’ll plug them in cleanly.
 
-### Languages
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+## 🧰 Tech Stack
 
-### Frameworks and Libraries
+### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django" />
+</p>
 
-### Tools and Technologies
+### 🛠 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+---
 
-## 📚 Projects
+## 📌 Featured Projects
 
-Here are some of the projects I've worked on:
+> Add your real best repos here (2–4). Send me the repo links and I’ll format perfectly.
 
-### 🔥 [Awesome Project](https://github.com/Minhaj414/awesome-project)
+- **Project 1** — short one-line description  
+- **Project 2** — short one-line description  
+- **Project 3** — short one-line description  
 
-A brief description of what this project is about.
-- [Live Demo](https://awesome-project-demo.com)
-
-### 🌟 [Another Cool Project](https://github.com/Minhaj414/another-cool-project)
-
-A brief description of what this project is about.
-- [Live Demo](https://another-cool-project-demo.com)
+---
 
 ## 📊 GitHub Stats
 
-![Minhaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minhaj414&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhaj414&layout=compact&theme=radical)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Minhaj414&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhaj414&layout=compact&theme=radical" />
+</p>
 
-## 🌐 Let's Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/Minhaj414)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/Minhaj414)
-[![Personal Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome)](https://minhaj414.com)
+## 🌐 Connect With Me
 
-Thank you for visiting my profile! Have a great day! 😊
-<!---
-Minhaj414/Minhaj414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <!-- Replace # with your real links -->
+  <a href="https://www.linkedin.com/in/Minhaj414">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/Minhaj414">
+    <img src="https://img.shields.io/badge/Twitter-111?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="https://minhaj414.com">
+    <img src="https://img.shields.io/badge/Website-111?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting — let's build something awesome.</i>
+</p>
