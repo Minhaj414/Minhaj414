@@ -5,18 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=7C3AED&center=true&vCenter=true&width=520&lines=Student+of+University+of+Moratuwa;Software+Engineer;Web+Developer;Learning+Open+Source;Robotics+%26+Computer+Vision+Curious;Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=1D4ED8&center=true&vCenter=true&width=520&lines=Student+of+University+of+Moratuwa;Software+Engineer;Web+Developer;Learning+Open+Source;Robotics+%26+Computer+Vision+Curious;Always+Shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Minhaj414">
-    <img src="https://komarev.com/ghpvc/?username=Minhaj414&label=Profile%20Views&color=7C3AED&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Minhaj414&label=Profile%20Views&color=1D4ED8&style=flat" alt="profile views" />
   </a>
   <a href="https://github.com/Minhaj414?tab=followers">
-    <img src="https://img.shields.io/github/followers/Minhaj414?label=Followers&style=flat&color=7C3AED" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Minhaj414?label=Followers&style=flat&color=1D4ED8" alt="followers" />
   </a>
   <a href="https://github.com/Minhaj414?tab=stars">
-    <img src="https://img.shields.io/github/stars/Minhaj414?label=Stars&style=flat&color=7C3AED" alt="stars" />
+    <img src="https://img.shields.io/github/stars/Minhaj414?label=Stars&style=flat&color=1D4ED8" alt="stars" />
   </a>
 </p>
 
