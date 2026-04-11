@@ -1,46 +1,98 @@
 <!-- Profile Header -->
-# Hi there, I'm Humaidh Milhan 👋
-
+<h1 align="center">Hi, I'm Minhaj 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=24A1DE&width=435&lines=University+Student;Robotics+Enthusiast;Web+Developer" alt="Typing SVG" />
+  <b>Web Developer • Open Source Learner • Building cool things on the internet</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/Minhaj414">
-    <img src="https://komarev.com/ghpvc/?username=Minhaj414&label=Profile%20Views&color=24A1DE&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Minhaj414&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
   </a>
   <a href="https://github.com/Minhaj414?tab=followers">
-    <img src="https://img.shields.io/github/followers/Minhaj414?label=Followers&style=flat&color=24A1DE" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Minhaj414?label=Followers&style=flat&color=blueviolet" alt="followers" />
   </a>
   <a href="https://github.com/Minhaj414?tab=stars">
-    <img src="https://img.shields.io/github/stars/Minhaj414?label=Stars&style=flat&color=24A1DE" alt="stars" />
+    <img src="https://img.shields.io/github/stars/Minhaj414?label=Stars&style=flat&color=blueviolet" alt="stars" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
-I am a University Student passionate about technology and process optimization, with hands-on experience in scripting, automation, and troubleshooting. Eager to apply my knowledge in software engineering while staying committed to continuous learning and growth in the tech industry.
+## 🚀 About Me
 
-- 🤖 **Currently working on:** A Robotics project involving Raspberry Pi, OpenCV, and Mediapipe.
-- 🌐 **Web Project:** Developing `TikMe-webapp`, a bike taxi and grocery delivery platform.
-- ⚡ **Fun Fact:** I love the challenge of making hardware "see" and react to the world.
+- 🌱 Currently learning and improving my development skills  
+- 👯 Open to collaborating on **Web Development** & **Open Source** projects  
+- 💬 Ask me about **JavaScript, Python, React, Node.js**  
+- ⚡ Fun fact: I enjoy puzzles and chess  
+
+> If you want, tell me your **real email / LinkedIn / portfolio**, I’ll plug them in cleanly.
 
 ---
 
-### 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi" />
+### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django" />
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 📌 Featured Projects
+
+> Add your real best repos here (2–4). Send me the repo links and I’ll format perfectly.
+
+- **Project 1** — short one-line description  
+- **Project 2** — short one-line description  
+- **Project 3** — short one-line description  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minhaj414&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Minhaj414&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhaj414&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <!-- Replace # with your real links -->
+  <a href="https://www.linkedin.com/in/Minhaj414">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/Minhaj414">
+    <img src="https://img.shields.io/badge/Twitter-111?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="https://minhaj414.com">
+    <img src="https://img.shields.io/badge/Website-111?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting — let's build something awesome.</i>
 </p>
