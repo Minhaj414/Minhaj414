@@ -76,9 +76,7 @@ I’m a university student who enjoys building web apps and experimenting with a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minhaj414&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minhaj414&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+
 
 ---
 
