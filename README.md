@@ -89,7 +89,7 @@ I’m a university student who enjoys building web apps and experimenting with a
   <a href="https://twitter.com/Minhaj414">
     <img src="https://img.shields.io/badge/Twitter-111?style=for-the-badge&logo=twitter" />
   </a>
-  <a href="https://minhaj414.com">
+  <a href="https://minhaj414.github.io/portfolio2/">
     <img src="https://img.shields.io/badge/Website-111?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
