@@ -40,7 +40,7 @@ I’m a university student who enjoys building web apps and experimenting with a
   <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 **Frameworks & Tools**
