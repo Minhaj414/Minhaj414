@@ -1,0 +1,48 @@
+name: Generate contribution snake
+
+# Run the workflow every day and allow manual re-runs from the Actions tab.
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+# The workflow only needs permission to push the generated SVG files.
+permissions:
+  contents: write
+
+# Prevent overlapping runs from racing to update the output branch.
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Build snake animation
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out the repository so the deployment action can publish the generated files.
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      # Generate both light and dark SVG variants from the contribution graph.
+      - name: Generate snake SVG files
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Publish the generated SVG files to the dedicated output branch.
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          force_orphan: true
